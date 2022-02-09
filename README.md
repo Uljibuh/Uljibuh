@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uljibuh
-- 👀 I’m interested in ML and AI and Statistics and Deep Learning 
-- 🌱 I’m currently learning Deep learning specialization
+- 👀 I’m passionate about Machine learning and Data science. 
+- 🌱 I’m currently looking for job as a Data Scientist.
 - 📫 How to reach me wulijibuhe333@gmail.com
 
 <!---
