@@ -7,6 +7,6 @@
 - 🌱 I’m currently looking for job as a Data Scientist or Research Scientist or Bioinformatician
 - 📫 How to reach me:  wulijibuhe333@gmail.com
 - 💎 Fun fact: I am a Mongolian.
-- 🎯 My Hobbies: Running, Football, Judo
-- 🪄 ...
+- 🎯 My Hobbies: Running, Football, Judo.
+- 🪄 Learning Discrete Mathmatics.
 
