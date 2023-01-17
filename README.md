@@ -8,5 +8,5 @@
 - 📫 How to reach me:  wulijibuhe333@gmail.com
 - 💎 Fun fact: I am a Mongolian.
 - 🎯 My Hobbies: Running, Football, Judo.
-- 🪄 Learning Reinforcement learning.
+- 🪄 Learning Reinforcement learning and Symbolic logic
 
