@@ -4,7 +4,7 @@
 - 🤖 Machine learning especially Deep Learning, 
 - 🧬 Genetics, Genomics
 - 🐍 Programming in Python.
-- 🌱 I’m currently looking for job as a Data Scientist or Research Scientist or Bioinformatician
+- 🌱 I’m currently working as a Research Assistant in Medical image analysis in Unito, Italy.
 - 📫 How to reach me:  wulijibuhe333@gmail.com
 - 💎 Fun fact: I am a Mongolian.
 - 🎯 My Hobbies: Running, Football, Judo.
