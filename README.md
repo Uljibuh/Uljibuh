@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Uljibuh Borjigin
-- 👨🏻‍🎓 Degree:  I have a master degree in Quantitative genetics
+- 👨🏻‍🎓 Degree:  I have a master's degree in Quantitative genetics
 - 👀 I’m passionate about: 
-- 🤖 Machine learning especially Deep Learning, 
+- 🤖 Deep Learning, Computer Vision, 
 - 🧬 Genetics, Genomics
 - 🐍 Programming in Python.
-- 🌱 I’m currently working as a Research Assistant in Medical image analysis in Unito, Italy.
+- 🌱 I’m currently working as a Research Assistant in Medical image analysis at Unito, Italy.
 - 📫 How to reach me:  wulijibuhe333@gmail.com
-- 💎 Fun fact: I am a Mongolian.
-- 🎯 My Hobbies: Running, Football, Judo.
-- 🪄 Learning Self-supervised learning, Symbolic logic, Information theory.
+- 🪄 Learning Self-supervised learning
 
