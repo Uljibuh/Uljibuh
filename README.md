@@ -4,7 +4,7 @@
 - 🤖 Deep Learning, Computer Vision, 
 - 🧬 Genetics, Genomics
 - 🐍 Programming in Python.
-- 🌱 I’m currently working as a Research Assistant in Medical image analysis at Unito, Italy.
+- 🌱 I’m currently working as a Research Associate in scRNA, Multiomics, Medical image analysis at Augusta University, Ga, USA.
 - 📫 How to reach me:  wulijibuhe333@gmail.com
-- 🪄 Learning Self-supervised learning
+- 🪄 Learning and implementing Generative AI, VAE, Diffusion
 
