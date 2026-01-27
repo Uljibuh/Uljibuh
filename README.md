@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Uljibuh Borjigin.
-- 🧬 Multiomics, scRNA, Flow Matching, Attention, Recursive Latent Reasoning.
+- 🧬 Multiomics, scRNA, Flow Matching, Attention, Recursive Latent Reasoning, RL.
 - 📫 How to reach me:  wulijibuhe333@gmail.com.
